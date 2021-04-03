@@ -1,0 +1,19 @@
+
+        body{
+            background-color:#f7d9d9;
+            
+        }
+        hr{
+            border-color:grey;
+            border-style: none;
+            border-top-style: dotted;
+            width: 10%;
+            border-width: 5px;
+        }
+        h1{
+            color:darkcyan ;
+        }
+        h2{
+            color:darkcyan;
+        }
+        /* Inline styling is dominant over internal styling and internal is dominant over external */
